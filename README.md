@@ -10,13 +10,7 @@ and
 
 ### Running
 
-`$ npm start` - will run the gulp task and watch for changes in `./src` directory
-
-### Serve
-
-Serve with what you like from `./build` directory or use:
-
-`./node_modules/.bin/http-server build` (preinstalled with dependencied) and open `localhost:8080` in the browser
+`$ npm start` - will run the gulp task and watch for changes in `./src` directory and serve the contents of `./build` directory
 
 ### Structure
 
